@@ -11,11 +11,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I’m a dedicated **Data Scientist** with a strong background in **Machine Learning**, **Data Analysis**, and **Artificial Intelligence**.
-- 🚀 Focused on solving real-world challenges through **predictive modeling**, **ML pipelines**, and **data-driven decision-making**.
-- 🧠 Keen interest in **Model Optimization**, **MLOps**, **Natural Language Processing**, and **Explainable AI**.
-- 🛠️ Tech stack includes: `Python`, `NumPy`, `Pandas`, `Scikit-learn`, `Matplotlib`, `Seaborn`, `TensorFlow`, and more.
-- 💬 Let’s talk about Python, ML algorithms, performance tuning, or anything data-related!
+- 🎓 I’m a dedicated **Data Scientist** with expertise in **Machine Learning**, **Data Analysis**, and **Artificial Intelligence**.
+- 🚀 Passionate about solving real-world problems using **predictive modeling**, **ML pipelines**, and **data-driven decision-making**.
+- 🧠 Deep interest in **Model Optimization**, **MLOps**, **NLP**, and **Explainable AI**.
+- 🛠️ Skilled with: `Python`, `NumPy`, `Pandas`, `Scikit-learn`, `Matplotlib`, `Seaborn`, `TensorFlow`, and more.
+- 💬 Feel free to reach out to talk about Python, ML algorithms, performance tuning, or data science in general!
 - 📬 Reach me at: [salloju.sidharth95@gmail.com](mailto:salloju.sidharth95@gmail.com)
 
 ---
@@ -27,7 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" alt="NumPy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="Pandas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="35" alt="Matplotlib" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="35" alt="Scikit-learn" />
+  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" height="35" alt="Scikit-learn" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35" alt="TensorFlow" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="35" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" />
